@@ -1,0 +1,28 @@
+{
+  "final_train_accuracy": 0.9777777777777777,
+  "final_test_accuracy": 0.9333333333333333,
+  "final_loss": 0.12041678966125033,
+  "epochs": 10,
+  "confusion_matrix": [
+    [
+      24,
+      2,
+      2
+    ],
+    [
+      0,
+      31,
+      0
+    ],
+    [
+      1,
+      1,
+      29
+    ]
+  ],
+  "classes": [
+    "circle",
+    "square",
+    "triangle"
+  ]
+}
